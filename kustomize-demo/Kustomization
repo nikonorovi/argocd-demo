@@ -8,4 +8,4 @@ resources:
 - nginx-svc.yaml
 
 CommonAnnotations:
-  channel: test6
+  channel: test26
